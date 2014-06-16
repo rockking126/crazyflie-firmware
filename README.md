@@ -1,7 +1,5 @@
-##CrazyFlie Firmware
-
-This project contains the source code for the Crazyflie firmware. More information can be found on the 
-[Bitcraze wiki](http://wiki.bitcraze.se/projects:crazyflie:index)
+##固件源码
+该文件夹中包含固件源码. 更多使用方法请参考网站教程。
 
 ```
 Folder description:
